@@ -2,9 +2,13 @@ package com.itwill.member;
 
 public class Member {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	int no;
 
+	public int getNo() {
+		return no;
 	}
 
+	public void setNo(int no) {
+		this.no = no;
+	}
 }
