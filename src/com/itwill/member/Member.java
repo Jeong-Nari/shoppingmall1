@@ -3,6 +3,7 @@ package com.itwill.member;
 public class Member {
 
 	int no;
+	String name;
 
 	public int getNo() {
 		return no;

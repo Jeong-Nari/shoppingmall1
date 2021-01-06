@@ -2,6 +2,7 @@ package com.itwill.product;
 
 public class Product {
 	int no;
+	String name;
 
 	public int getNo() {
 		return no;

@@ -3,6 +3,7 @@ package com.itwill.order;
 public class Order {
 
 	int no;
+	String name;
 
 	public int getNo() {
 		return no;
