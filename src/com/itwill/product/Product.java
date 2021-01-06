@@ -11,4 +11,7 @@ public class Product {
 	public void setNo(int no) {
 		this.no = no;
 	}
+	public void print() {
+		
+	}
 }
