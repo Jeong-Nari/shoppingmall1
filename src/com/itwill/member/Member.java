@@ -12,6 +12,15 @@ public class Member {
 	public void setNo(int no) {
 		this.no = no;
 	}
+	
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
 	public void print() {
 		
 	}
